@@ -6,6 +6,7 @@ import Footer from './Footer/Footer';
 const App = (props) => {
   return (
     <div className="App">
+      <h1>HelooOOOOO!!!!O_O</h1>
       <Header 
       linksToProps={props.data.header.links} 
       logoToProps={props.data.header.logo}
