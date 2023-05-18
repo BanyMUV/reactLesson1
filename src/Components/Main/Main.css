@@ -1,0 +1,26 @@
+.price{
+  margin: 0 auto;
+  width: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.price img{
+  width: 100%;
+}
+.cards{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-wrap: wrap;
+}
+.card{
+  width: 200px;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid aquamarine;
+}
+.card img{
+  width: 20%;
+}

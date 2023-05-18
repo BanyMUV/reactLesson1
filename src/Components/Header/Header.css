@@ -1,0 +1,13 @@
+header{
+  background-color: aquamarine;
+  display: flex;
+  padding: 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+nav a{
+  margin: 0 0 0 50px;
+}
+header img{
+  width: 40px;
+}
